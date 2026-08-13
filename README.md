@@ -28,7 +28,7 @@ Analyzed insurance claims data to identify factors associated with claim severit
 
 ## Dashboard
 
-link
+[View dashboard](https://datastudio.google.com/s/tcIpBCoAJRs)
 
 ## Documentation
 
