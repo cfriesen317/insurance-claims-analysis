@@ -23,7 +23,7 @@ Analyzed insurance claims data to identify factors associated with claim severit
 ## Key Findings
 
 - The analysis did not identify one dominant individual characteristic associated with higher claim severity.
-- Substantial variation in claim amounts suggests that combinations of characteristics may be worth investigating further.
+- Claim amounts varied substantially across the dataset, suggesting that combinations of characteristics may be worth investigating further.
 - Resolution times were generally consistent across the factors analyzed, with claim channel emerging as an area for further investigation.
 
 ## Dashboard
