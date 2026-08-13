@@ -32,5 +32,5 @@ Analyzed insurance claims data to identify factors associated with claim severit
 
 ## Documentation
 
-- Data Quality & Preparation Notes
-- Executive Summary
+- [Data Quality & Preparation Notes](Data Quality & Preparation Notes.pdf)
+- [Executive Summary](Executive Summary.pdf)
